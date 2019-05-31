@@ -1,2 +1,2 @@
 # queue
-a sample queue using c
+a sample stack data structure using c

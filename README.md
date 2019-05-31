@@ -1,2 +1,2 @@
 # queue
-a sample queue
+a sample queue using c
